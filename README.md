@@ -19,3 +19,4 @@ Minha primeira calculadora funcional desenvolvida em **Java** utilizando a bibli
 
 ## ✒️ Autor
 * **Álvaro** - *Desenvolvedor*
+* ![Versão](https://img.shields.io/github/v/release/arrcoxa/CalculadoraNexo?color=orange)
