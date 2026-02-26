@@ -15,7 +15,7 @@ Minha primeira calculadora funcional desenvolvida em **Java** utilizando a bibli
 * **VS Code** (Ambiente de Desenvolvimento)
 
 ## 📸 Como ficou
-
+![Foto da Calculadora](calculadora.png)
 
 ## ✒️ Autor
 * **Álvaro** - *Desenvolvedor*
