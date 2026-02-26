@@ -1,18 +1,21 @@
-## Getting Started
+# 🧮 Calculadora Nexo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Minha primeira calculadora funcional desenvolvida em **Java** utilizando a biblioteca **Swing**, migrando do IntelliJ para o **VS Code**.
 
-## Folder Structure
+## 🚀 Funcionalidades
+* Operações básicas: Soma, Subtração, Multiplicação e Divisão.
+* Suporte a expressões complexas com **parênteses** `( )`.
+* Botão de apagar caractere único (`<-`) e limpar tudo (`C`).
+* Interface otimizada com visor ampliado e botão de resultado destacado.
+* Lógica que respeita a precedência matemática.
 
-The workspace contains two folders by default, where:
+## 🛠️ Tecnologias
+* **Java** (JDK 25+)
+* **Swing** (Interface Gráfica)
+* **VS Code** (Ambiente de Desenvolvimento)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📸 Como ficou
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ✒️ Autor
+* **Álvaro** - *Desenvolvedor*
